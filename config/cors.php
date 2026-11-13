@@ -7,6 +7,7 @@ return [
     'allowed_methods' => ['*'],
 
     'allowed_origins' => [
+        'https://veloreka-nevermind.vercel.app',
         'http://192.168.1.14:5173',
         'http://192.168.68.127:5173',
         'http://localhost:5173',
